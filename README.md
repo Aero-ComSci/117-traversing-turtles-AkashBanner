@@ -31,10 +31,16 @@ Step 18
 
 ## Questions about the Activity as you work. 
 ```
-
+How do I customize the shapes and colors of the turtles in the program?
+What are the different movement commands available for the turtle, and how can I use them to create more complex designs?
+Can I modify the program to make the turtles draw different patterns or animations? If so, how?
 ```
 #### Description Of The App 
 
-`
+The app is a turtle graphics program that uses a series of turtle shapes and colors to create dynamic patterns on the screen. It allows users to visualize geometric movements and shapes through simple commands, providing an interactive way to explore programming concepts in Python.
+
 # Include a video of the result of the code at speed 0 or Fast. Be sure to make it available for me to see.
+
+https://github.com/user-attachments/assets/72b599ab-54e0-431e-8973-a37bc9dfcf4a
+
 ## For Regrades use the Feedback and @baeztheprog on your commit messages.
